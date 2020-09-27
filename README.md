@@ -1,0 +1,1 @@
+# -Fire-Event-From-Child-to-Parent-Component-in-Node-js-Vue-CLI
